@@ -1,5 +1,0 @@
-{
-  "name": "B_KOMHATE Codewords with Analytics",
-  "description": "An application to generate and manage codewords with QR codes and view tracking. This version adds analytics to track how many times each codeword QR link is viewed.",
-  "requestFramePermissions": []
-}
